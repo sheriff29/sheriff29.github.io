@@ -15,7 +15,7 @@ publishDir = "docs"
   description = "Describe your website"
   copyright = "&copy;2016 Sheriff Olasunkanmi"
   sidebarAbout = [
-      "Natural resource procurement professional with a degree in Forestry and professional specialties in building cross-country supplier networks, conducting forest commodities appraisal and forecasting, and managing long and short-term procurement - timber and natural rubber - projects."
+      "I am a natural resource procurement professional with a degree in Forestry and professional specialties in building cross-country supplier networks, conducting forest commodities appraisal and forecasting, and managing long and short-term procurement - timber and natural rubber - projects."
     ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
