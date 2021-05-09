@@ -2,7 +2,7 @@
 date = "2021-01-08T19:41:01+05:30"
 title = "Name of the work 2"
 draft = false
-image = "img/portfolio/business-card-26.jpg"
+image = "img/portfolio/darwin.jpg"
 showonlyimage = false
 weight = 1
 +++
